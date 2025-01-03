@@ -19,7 +19,7 @@ This project is a responsive "Results Summary" component, showcasing test result
 
 ### Mobile Design
 
-<img src="./design/mobile-design.jpg" alt="Product Screenshot" height="300" />
+<img src="./design/mobile-design.jpg" alt="Product Screenshot" height="500" />
 
 
 ## How to Use
